@@ -13,6 +13,7 @@ target/
 .springBeans
 .sts4-cache
 
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -24,6 +25,7 @@ target/
 /nbbuild/
 /dist/
 /nbdist/
+**/node_modeles/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
